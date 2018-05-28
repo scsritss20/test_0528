@@ -1,0 +1,11 @@
+test01
+domain=cnsuning.com 
+
+aaaaaa=bbbbbbbbbbbbb
+secretKey=aaaaaa
+
+
+
+tttttttt=ccccccccccccccc
+aaaaaaaa=vvvvvvvvvvvvv
+aqse3rd=1edrgr333
